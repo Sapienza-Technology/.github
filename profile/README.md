@@ -1,4 +1,6 @@
 
 Repository del Sapienza Technology Team
 
-Documentazione Software: https://docs.google.com/document/d/1Zoqj2mNvKhZachQpJKA9-FaNCaqlKLW1I5zm5EmvYqg/edit?pli=1
+Documentazione Software: 
+https://sapienza-technology.github.io/documentation/
+(old) https://docs.google.com/document/d/1Zoqj2mNvKhZachQpJKA9-FaNCaqlKLW1I5zm5EmvYqg/edit?pli=1
